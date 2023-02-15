@@ -1,0 +1,13 @@
+button{
+    padding: 15px 30px;
+    background-color: rgb(92, 174, 176);
+    border-radius: 10px;
+    border: none;
+}
+.counter{
+    padding-top: 20%;
+}
+.counter h3{
+    background-color: rgb(105, 106, 106);
+    padding: 11px 30px;
+}
